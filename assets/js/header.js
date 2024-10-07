@@ -26,7 +26,7 @@ let headerComponent = `
                   >
                 </li>
                 <li>
-                  <a href="wishlist.html"
+                  <a href="favorie.html"
                     ><i class="iconsax" data-icon="heart"></i>Favories</a
                   >
                 </li>
@@ -198,6 +198,12 @@ let headerComponent = `
                       </div>
                     </div>
                   </li>
+                  <li>
+                    <a class="nav-link" href="index.html">Apropos</a>
+                </li>
+                <li>
+                    <a class="nav-link" href="index.html">Contact</a>
+                </li>
                   <!--  -->
               </nav>
               <div class="sub_header">
@@ -216,7 +222,7 @@ let headerComponent = `
                     </button>
                   </li>
                   <li>
-                    <a href="wishlist.html"
+                    <a href="template/favorie.html"
                       ><i class="iconsax" data-icon="heart"></i
                       ><span class="cart_qty_cls">2</span></a
                     >

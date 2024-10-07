@@ -5,10 +5,10 @@ let footerComponent = `
           <div class="row align-items-center">
             <div class="col-xxl-4 col-xl-5">
               <div>
-                <h5>Subscribe to Our Newsletter!</h5>
+                <h5>Abonnez-vous à notre newsletter !</h5>
                 <span
-                  >Be the first to get the latest news about trends,promotions,
-                  and much more!</span
+                  >Soyez le premier à recevoir les dernières nouvelles sur les tendances, 
+                  les promotions et bien plus encore !</span
                 >
               </div>
             </div>
@@ -18,11 +18,11 @@ let footerComponent = `
                   <input
                     class="form-control"
                     type="text"
-                    placeholder="Your email address..."
+                    placeholder="Entrez votre adresse mail..."
                   />
                 </div>
                 <a class="btn btn_black" href="#"
-                  >Subscribe<svg>
+                  >S'abonner<svg>
                     <use
                       href="https://themes.pixelstrap.net/katie/assets/svg/icon-sprite.svg#arrow"
                     ></use></svg
@@ -52,17 +52,16 @@ let footerComponent = `
                   <li>
                     <i class="iconsax" data-icon="location"></i>
                     <h6>
-                      1418 Riverwood Drive, Suite 3245 Cottonwood, CA 96052,
-                      United States
+                      Libreville Nombakele
                     </h6>
                   </li>
                   <li>
                     <i class="iconsax" data-icon="phone-calling"></i>
-                    <h6>+ 185659635</h6>
+                    <h6>077270952</h6>
                   </li>
                   <li>
                     <i class="iconsax" data-icon="mail"></i>
-                    <h6>contact@katie.com</h6>
+                    <h6>contact@HarmonieHome.com</h6>
                   </li>
                 </ul>
                 <ul class="social-icon">
@@ -93,14 +92,15 @@ let footerComponent = `
               <div class="footer-content">
                 <div>
                   <div class="footer-title d-md-block">
-                    <h5>About Us</h5>
+                    <h5>Lien Utiles</h5>
                     <ul class="footer-details accordion-hidden">
-                      <li><a class="nav" href="index.html">Acceuil</a></li>
+                      <li><a class="nav" href="index.html">Accueil</a></li>
                       <li>
                         <a class="nav" href="collection-left-sidebar.html"
                           >Magasins</a
                         >
                       </li>
+                      <li><a class="nav" href="about-us.html">Catalogue</a></li>
                       <li><a class="nav" href="about-us.html">Apropos</a></li>
                       <li><a class="nav" href="contact.html">Contact</a></li>
                     </ul>
@@ -112,29 +112,29 @@ let footerComponent = `
               <div class="footer-content">
                 <div>
                   <div class="footer-title d-md-block">
-                    <h5>New Categories</h5>
+                    <h5>Catalogue</h5>
                     <ul class="footer-details accordion-hidden">
                       <li>
                         <a class="nav" href="product-bundle.html"
-                          >Latest Shoes</a
+                          >Salon</a
                         >
                       </li>
                       <li>
                         <a class="nav" href="variant-radio.html"
-                          >Branded Jeans</a
+                          >Cuisine</a
                         >
                       </li>
                       <li>
-                        <a class="nav" href="product.html">New Jackets</a>
+                        <a class="nav" href="product.html">Chambre</a>
                       </li>
                       <li>
                         <a class="nav" href="variant-images.html"
-                          >Colorful Hoodies</a
+                          >Douche</a
                         >
                       </li>
                       <li>
                         <a class="nav" href="variant-dropdown.html"
-                          >Best Perfume</a
+                          >Divers</a
                         >
                       </li>
                     </ul>
@@ -146,23 +146,23 @@ let footerComponent = `
               <div class="footer-content">
                 <div>
                   <div class="footer-title d-md-block">
-                    <h5>Get Help</h5>
+                    <h5>Magasin</h5>
                     <ul class="footer-details accordion-hidden">
                       <li>
-                        <a class="nav" href="order-success.html">Your Orders</a>
+                        <a class="nav" href="order-success.html">ORCA</a>
                       </li>
                       <li>
-                        <a class="nav" href="dashboard.html">Your Account</a>
+                        <a class="nav" href="dashboard.html">CK2</a>
                       </li>
                       <li>
                         <a class="nav" href="order-tracking.html"
-                          >Track Orders</a
+                          >Chez LYLY</a
                         >
                       </li>
+                      <li><a class="nav" href="faq.html">Pablo Déco</a></li>
                       <li>
-                        <a class="nav" href="wishlist.html">Your Wishlist</a>
+                        <a class="nav" href="/template/favorie.html">Favorie</a>
                       </li>
-                      <li><a class="nav" href="faq.html">Shopping FAQs</a></li>
                     </ul>
                   </div>
                 </div>
@@ -172,30 +172,28 @@ let footerComponent = `
               <div class="footer-content">
                 <div>
                   <div class="footer-title d-md-block">
-                    <h5>Recent News</h5>
+                    <h5>Articles</h5>
                     <ul class="footer-details footer-items accordion-hidden">
                       <li>
                         <a href="#">
-                          <img src="./assets/images/fashion/1.jpg" alt=""
+                          <img src="./assets/img/menu/panier.jpg" width="100px" alt=""
                         /></a>
                         <div>
                           <h6>
-                            I don't try to be in fashion; You just end up out of
-                            fashion that way.
+                            Panier de paille de rafia
                           </h6>
-                          <span>22 January 2024</span>
+                          <span>22 Septembre 2024</span>
                         </div>
                       </li>
                       <li>
                         <a href="#">
-                          <img src="./assets/images/fashion/2.jpg" alt=""
+                          <img src="./assets/img/menu/VerreDEau.jpg" width="100px" alt=""
                         /></a>
                         <div>
                           <h6>
-                            I don't try to be in fashion; You just end up out of
-                            fashion that way.
+                            Verre d'eau.
                           </h6>
-                          <span>22 January 2024</span>
+                          <span>22 Septembre 2024</span>
                         </div>
                       </li>
                     </ul>
@@ -211,7 +209,7 @@ let footerComponent = `
           <div class="row">
             <div class="col-xl-6 col-md-6 col-sm-12">
               <div class="footer-end">
-                <h6>2024 Copyright By Themeforest Powered By Pixelstrap</h6>
+                <h6>&copy; <span id="current-year">2024</span> Copyright By Themeforest Powered By Pixelstrap</h6>
               </div>
             </div>
             <div class="col-xl-6 col-md-6 col-sm-12">
@@ -234,7 +232,16 @@ let footerComponent = `
         </div>
       </div>
     </footer>
-`
-let footer = document.getElementById("footer")
+`;
 
-footer.innerHTML = footerComponent
+let footer = document.getElementById("footer");
+footer.innerHTML = footerComponent;
+
+// Fonction pour mettre à jour l'année
+function updateCopyrightYear() {
+    const currentYear = new Date().getFullYear();
+    document.getElementById("current-year").textContent = currentYear;
+}
+
+// Appel de la fonction pour mettre à jour l'année
+updateCopyrightYear();

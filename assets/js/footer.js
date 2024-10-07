@@ -209,7 +209,7 @@ let footerComponent = `
           <div class="row">
             <div class="col-xl-6 col-md-6 col-sm-12">
               <div class="footer-end">
-                <h6>&copy; <span id="current-year">2024</span> Copyright By Themeforest Powered By Pixelstrap</h6>
+                <h6>&copy; <span id="current-year">2024</span> Copyright By Harmonie Home Powered By <a href="https://alissa-ia.site/">Alissa IA</a></h6>
               </div>
             </div>
             <div class="col-xl-6 col-md-6 col-sm-12">

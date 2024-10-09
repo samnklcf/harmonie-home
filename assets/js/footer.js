@@ -41,10 +41,10 @@ let footerComponent = `
                   <a class="brand-logo" href="index.html">
                     <img
                       class="img-fluid for-light"
-                      src="./assets/img/logo/logo.jpg"
+                      src="/assets/img/logo/logo.jpg"
                       alt="logo" /><img
                       class="img-fluid for-dark"
-                      src="./assets/img/logo/logo.jpg"
+                      src="/assets/img/logo/logo.jpg"
                       alt="logo"
                   /></a>
                 </div>

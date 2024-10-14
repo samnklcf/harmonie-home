@@ -32,7 +32,7 @@ let headerComponent = `
                 </li>
                 <li>
                   <a href="dashboard.html"
-                    ><i class="iconsax" data-icon="user-2"></i>Mon Conte</a
+                    ><i class="iconsax" data-icon="user-2"></i>Mon Compte</a
                   >
                 </li>
               </ul>
@@ -163,15 +163,15 @@ let headerComponent = `
                       <div class="row">
                         <div class="col-xl-4">
                           <ul class="p-2">
-                            <li><a href="product.html">Salon</a></li>
+                            <li><a href="salon.html">Salon</a></li>
                             <li>
-                              <a href="product-sticky.html">Cuisine</a>
+                              <a href="cuisine.html">Cuisine</a>
                             </li>
                             <li>
-                              <a href="product-bottom.html">Chambre</a>
+                              <a href="chambre.html">Chambre</a>
                             </li>
                             <li>
-                              <a href="product-video.html"
+                              <a href="douche.html"
                                 >Douche<span
                                   class="badge-sm theme-default"
                                   >new</span
@@ -179,7 +179,7 @@ let headerComponent = `
                               >
                             </li>
                             <li>
-                              <a href="product-accordion.html"
+                              <a href="divers.html"
                                 >Divers</a
                               >
                             </li>

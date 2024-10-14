@@ -4727,7 +4727,15 @@ textarea.form-control-lg {
   float: left;
   padding-right: var(--bs-breadcrumb-item-padding-x);
   color: var(--bs-breadcrumb-divider-color);
+<<<<<<< HEAD
   content: var(--bs-breadcrumb-divider, "") /* rtl: var(--bs-breadcrumb-divider, "/") */;
+=======
+<<<<<<< HEAD
+  content: var(--bs-breadcrumb-divider, "") /* rtl: var(--bs-breadcrumb-divider, "/") */;
+=======
+  content: var(--bs-breadcrumb-divider, "/") /* rtl: var(--bs-breadcrumb-divider, "/") */;
+>>>>>>> dab73da55a7abde9fb7aa89e154465efd9d50b5e
+>>>>>>> 10e2cf080b49785db2f499aa1310e82e22fd14e8
 }
 .breadcrumb-item.active {
   color: var(--bs-breadcrumb-item-active-color);

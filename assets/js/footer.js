@@ -38,7 +38,7 @@ let footerComponent = `
             <div class="col-lg-3 col-sm-6 order-lg-1 order-1">
               <div class="footer-content">
                 <div class="footer-logo">
-                  <a class="brand-logo" href="index.html">
+                  <a class="brand-logo" href="/index.html">
                     <img
                       class="img-fluid for-light"
                       src="/assets/img/logo/logo.jpg"
@@ -46,6 +46,7 @@ let footerComponent = `
                       class="img-fluid for-dark"
                       src="/assets/img/logo/logo.jpg"
                       alt="logo"
+                      style="border-radius: 100% !important;"
                   /></a>
                 </div>
                 <ul>
@@ -61,7 +62,7 @@ let footerComponent = `
                   </li>
                   <li>
                     <i class="iconsax" data-icon="mail"></i>
-                    <h6>contact@HarmonieHome.com</h6>
+                    <h6>contact@Harmonie-home.com</h6>
                   </li>
                 </ul>
                 <ul class="social-icon">
@@ -339,9 +340,9 @@ let headerComponent = `
                     ></i>
                   </li>
                   <li>
-                    <a class="nav-link" href="#"
-                      >Accueil <span> <i class="fa-solid fa-angle-down"></i></span
-                    ></a>
+                    <a class="nav-link" href="/index.html"
+                      >Accueil 
+                    </a>
                     <!-- <div class="mega-menu">
                       <div class="row gy-3">
                         <div class="col-xl-3">

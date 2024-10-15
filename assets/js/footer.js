@@ -233,6 +233,7 @@ let footerComponent = `
         </div>
       </div>
     </footer>
+     
 `;
 
 let footer = document.getElementById("footer");
@@ -258,8 +259,9 @@ let headerComponent = `
     
         <div class="top_header">
             <p>Code de réduction gratuit : soldes du debut d'année sur les articles sélectionnés. Utilisez : <span> MAINTENANT</span><a
-                    href="collection-left-sidebar.html"> Disponible</a></p>
+                     href="collection-left-sidebar.html"> Disponible</a></p>
         </div>
+        
       <div class="custom-container container header-1">
         <div class="row">
           <div class="col-12 p-0">
@@ -282,15 +284,15 @@ let headerComponent = `
                   >
                 </li>
                 <li>
-                  <a href="favorie.html"
+                  <a href="/template/favorie.html"
                     ><i class="iconsax" data-icon="heart"></i>Favories</a
                   >
                 </li>
-                <li>
+                <!-- <li>
                   <a href="dashboard.html"
                     ><i class="iconsax" data-icon="user-2"></i>Mon Conte</a
                   >
-                </li>
+                </li> -->
               </ul>
             </div>
             <div
@@ -334,7 +336,7 @@ let headerComponent = `
                   id="sm-horizontal"
                 >
                   <li class="mobile-back" id="mobile-back">
-                    Back<i
+                    Fermer<i
                       class="fa-solid fa-angle-right ps-2"
                       aria-hidden="true"
                     ></i>
